@@ -6,3 +6,6 @@ torchaudio
 numpy
 matplotlib
 jupyter
+pandas
+seaborn
+tqdm
